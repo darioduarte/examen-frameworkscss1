@@ -1,0 +1,12 @@
+body
+{
+  background-image: url("../img/pizza.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.fondo {
+  background-color: rgba(179, 136, 255, 0.5);
+}
